@@ -1,0 +1,8 @@
+﻿  Lesson15h.cpp
+C:\Users\ASUS\source\repos\Lesson15h\Lesson15h\Lesson15h.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\Lesson15h\Lesson15h\Lesson15h.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\Lesson15h\Lesson15h\Lesson15h.cpp(20,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\Lesson15h\Lesson15h\Lesson15h.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\Lesson15h\Lesson15h\Lesson15h.cpp(37,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\Lesson15h\Lesson15h\Lesson15h.cpp(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lesson15h.vcxproj -> C:\Users\ASUS\source\repos\Lesson15h\x64\Debug\Lesson15h.exe
